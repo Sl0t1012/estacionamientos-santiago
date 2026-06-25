@@ -1,0 +1,26 @@
+# Datos crudos (no subir)
+data/raw/
+data/processed/*.db
+
+# Credenciales
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI (el .pbix puede pesar mucho, decidir caso a caso)
+*.pbix
+
+# OS
+.DS_Store
+Thumbs.db
