@@ -72,7 +72,7 @@ estacionamientos-santiago/
 ## Instalación
 
 ```bash
-git clone https://github.com/TU_USUARIO/estacionamientos-santiago.git
+git clone https://github.com/Sl0t1012/estacionamientos-santiago.git
 cd estacionamientos-santiago
 pip install -r requirements.txt
 ```
@@ -143,8 +143,8 @@ Páginas del dashboard:
 **Gonzalo Vergara Espinoza**
 Analista de Sistemas | Data Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gonzalo_Vergara-blue?logo=linkedin)](https://www.linkedin.com/in/TU_PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-TU_USUARIO-black?logo=github)](https://github.com/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gonzalo_Vergara-blue?logo=linkedin)](https://www.linkedin.com/in/gonzalovergara-c)
+[![GitHub](https://img.shields.io/badge/GitHub-Sl0t1012-black?logo=github)](https://github.com/Sl0t1012)
 
 ---
 
