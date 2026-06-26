@@ -1,0 +1,1009 @@
+﻿comuna,hora,hora_num,tipo_dia,tipo_estacionamiento,precio_hora,score_seguridad,zona
+Las Condes,07:00,7,laboral,superficie,1100,7.2,oriente
+Las Condes,07:00,7,laboral,subterraneo,1350,7.2,oriente
+Las Condes,07:00,7,laboral,mall,1250,7.2,oriente
+Las Condes,07:00,7,sabado,superficie,1000,7.2,oriente
+Las Condes,07:00,7,sabado,subterraneo,1200,7.2,oriente
+Las Condes,07:00,7,sabado,mall,1100,7.2,oriente
+Las Condes,07:00,7,domingo,superficie,850,7.2,oriente
+Las Condes,07:00,7,domingo,subterraneo,1000,7.2,oriente
+Las Condes,07:00,7,domingo,mall,900,7.2,oriente
+Las Condes,08:00,8,laboral,superficie,1100,7.2,oriente
+Las Condes,08:00,8,laboral,subterraneo,1350,7.2,oriente
+Las Condes,08:00,8,laboral,mall,1250,7.2,oriente
+Las Condes,08:00,8,sabado,superficie,1000,7.2,oriente
+Las Condes,08:00,8,sabado,subterraneo,1200,7.2,oriente
+Las Condes,08:00,8,sabado,mall,1100,7.2,oriente
+Las Condes,08:00,8,domingo,superficie,850,7.2,oriente
+Las Condes,08:00,8,domingo,subterraneo,1000,7.2,oriente
+Las Condes,08:00,8,domingo,mall,900,7.2,oriente
+Las Condes,09:00,9,laboral,superficie,1400,7.2,oriente
+Las Condes,09:00,9,laboral,subterraneo,1700,7.2,oriente
+Las Condes,09:00,9,laboral,mall,1550,7.2,oriente
+Las Condes,09:00,9,sabado,superficie,1250,7.2,oriente
+Las Condes,09:00,9,sabado,subterraneo,1500,7.2,oriente
+Las Condes,09:00,9,sabado,mall,1400,7.2,oriente
+Las Condes,09:00,9,domingo,superficie,1050,7.2,oriente
+Las Condes,09:00,9,domingo,subterraneo,1250,7.2,oriente
+Las Condes,09:00,9,domingo,mall,1150,7.2,oriente
+Las Condes,10:00,10,laboral,superficie,1400,7.2,oriente
+Las Condes,10:00,10,laboral,subterraneo,1700,7.2,oriente
+Las Condes,10:00,10,laboral,mall,1550,7.2,oriente
+Las Condes,10:00,10,sabado,superficie,1250,7.2,oriente
+Las Condes,10:00,10,sabado,subterraneo,1500,7.2,oriente
+Las Condes,10:00,10,sabado,mall,1400,7.2,oriente
+Las Condes,10:00,10,domingo,superficie,1050,7.2,oriente
+Las Condes,10:00,10,domingo,subterraneo,1250,7.2,oriente
+Las Condes,10:00,10,domingo,mall,1150,7.2,oriente
+Las Condes,11:00,11,laboral,superficie,1400,7.2,oriente
+Las Condes,11:00,11,laboral,subterraneo,1700,7.2,oriente
+Las Condes,11:00,11,laboral,mall,1550,7.2,oriente
+Las Condes,11:00,11,sabado,superficie,1250,7.2,oriente
+Las Condes,11:00,11,sabado,subterraneo,1500,7.2,oriente
+Las Condes,11:00,11,sabado,mall,1400,7.2,oriente
+Las Condes,11:00,11,domingo,superficie,1050,7.2,oriente
+Las Condes,11:00,11,domingo,subterraneo,1250,7.2,oriente
+Las Condes,11:00,11,domingo,mall,1150,7.2,oriente
+Las Condes,12:00,12,laboral,superficie,1800,7.2,oriente
+Las Condes,12:00,12,laboral,subterraneo,2200,7.2,oriente
+Las Condes,12:00,12,laboral,mall,2000,7.2,oriente
+Las Condes,12:00,12,sabado,superficie,1650,7.2,oriente
+Las Condes,12:00,12,sabado,subterraneo,1950,7.2,oriente
+Las Condes,12:00,12,sabado,mall,1800,7.2,oriente
+Las Condes,12:00,12,domingo,superficie,1350,7.2,oriente
+Las Condes,12:00,12,domingo,subterraneo,1650,7.2,oriente
+Las Condes,12:00,12,domingo,mall,1500,7.2,oriente
+Las Condes,13:00,13,laboral,superficie,1800,7.2,oriente
+Las Condes,13:00,13,laboral,subterraneo,2200,7.2,oriente
+Las Condes,13:00,13,laboral,mall,2000,7.2,oriente
+Las Condes,13:00,13,sabado,superficie,1650,7.2,oriente
+Las Condes,13:00,13,sabado,subterraneo,1950,7.2,oriente
+Las Condes,13:00,13,sabado,mall,1800,7.2,oriente
+Las Condes,13:00,13,domingo,superficie,1350,7.2,oriente
+Las Condes,13:00,13,domingo,subterraneo,1650,7.2,oriente
+Las Condes,13:00,13,domingo,mall,1500,7.2,oriente
+Las Condes,14:00,14,laboral,superficie,1800,7.2,oriente
+Las Condes,14:00,14,laboral,subterraneo,2200,7.2,oriente
+Las Condes,14:00,14,laboral,mall,2000,7.2,oriente
+Las Condes,14:00,14,sabado,superficie,1650,7.2,oriente
+Las Condes,14:00,14,sabado,subterraneo,1950,7.2,oriente
+Las Condes,14:00,14,sabado,mall,1800,7.2,oriente
+Las Condes,14:00,14,domingo,superficie,1350,7.2,oriente
+Las Condes,14:00,14,domingo,subterraneo,1650,7.2,oriente
+Las Condes,14:00,14,domingo,mall,1500,7.2,oriente
+Las Condes,15:00,15,laboral,superficie,1400,7.2,oriente
+Las Condes,15:00,15,laboral,subterraneo,1700,7.2,oriente
+Las Condes,15:00,15,laboral,mall,1550,7.2,oriente
+Las Condes,15:00,15,sabado,superficie,1250,7.2,oriente
+Las Condes,15:00,15,sabado,subterraneo,1500,7.2,oriente
+Las Condes,15:00,15,sabado,mall,1400,7.2,oriente
+Las Condes,15:00,15,domingo,superficie,1050,7.2,oriente
+Las Condes,15:00,15,domingo,subterraneo,1250,7.2,oriente
+Las Condes,15:00,15,domingo,mall,1150,7.2,oriente
+Las Condes,16:00,16,laboral,superficie,1400,7.2,oriente
+Las Condes,16:00,16,laboral,subterraneo,1700,7.2,oriente
+Las Condes,16:00,16,laboral,mall,1550,7.2,oriente
+Las Condes,16:00,16,sabado,superficie,1250,7.2,oriente
+Las Condes,16:00,16,sabado,subterraneo,1500,7.2,oriente
+Las Condes,16:00,16,sabado,mall,1400,7.2,oriente
+Las Condes,16:00,16,domingo,superficie,1050,7.2,oriente
+Las Condes,16:00,16,domingo,subterraneo,1250,7.2,oriente
+Las Condes,16:00,16,domingo,mall,1150,7.2,oriente
+Las Condes,17:00,17,laboral,superficie,1400,7.2,oriente
+Las Condes,17:00,17,laboral,subterraneo,1700,7.2,oriente
+Las Condes,17:00,17,laboral,mall,1550,7.2,oriente
+Las Condes,17:00,17,sabado,superficie,1250,7.2,oriente
+Las Condes,17:00,17,sabado,subterraneo,1500,7.2,oriente
+Las Condes,17:00,17,sabado,mall,1400,7.2,oriente
+Las Condes,17:00,17,domingo,superficie,1050,7.2,oriente
+Las Condes,17:00,17,domingo,subterraneo,1250,7.2,oriente
+Las Condes,17:00,17,domingo,mall,1150,7.2,oriente
+Las Condes,18:00,18,laboral,superficie,1400,7.2,oriente
+Las Condes,18:00,18,laboral,subterraneo,1700,7.2,oriente
+Las Condes,18:00,18,laboral,mall,1550,7.2,oriente
+Las Condes,18:00,18,sabado,superficie,1250,7.2,oriente
+Las Condes,18:00,18,sabado,subterraneo,1500,7.2,oriente
+Las Condes,18:00,18,sabado,mall,1400,7.2,oriente
+Las Condes,18:00,18,domingo,superficie,1050,7.2,oriente
+Las Condes,18:00,18,domingo,subterraneo,1250,7.2,oriente
+Las Condes,18:00,18,domingo,mall,1150,7.2,oriente
+Las Condes,19:00,19,laboral,superficie,1400,7.2,oriente
+Las Condes,19:00,19,laboral,subterraneo,1700,7.2,oriente
+Las Condes,19:00,19,laboral,mall,1550,7.2,oriente
+Las Condes,19:00,19,sabado,superficie,1250,7.2,oriente
+Las Condes,19:00,19,sabado,subterraneo,1500,7.2,oriente
+Las Condes,19:00,19,sabado,mall,1400,7.2,oriente
+Las Condes,19:00,19,domingo,superficie,1050,7.2,oriente
+Las Condes,19:00,19,domingo,subterraneo,1250,7.2,oriente
+Las Condes,19:00,19,domingo,mall,1150,7.2,oriente
+Las Condes,20:00,20,laboral,superficie,1400,7.2,oriente
+Las Condes,20:00,20,laboral,subterraneo,1700,7.2,oriente
+Las Condes,20:00,20,laboral,mall,1550,7.2,oriente
+Las Condes,20:00,20,sabado,superficie,1250,7.2,oriente
+Las Condes,20:00,20,sabado,subterraneo,1500,7.2,oriente
+Las Condes,20:00,20,sabado,mall,1400,7.2,oriente
+Las Condes,20:00,20,domingo,superficie,1050,7.2,oriente
+Las Condes,20:00,20,domingo,subterraneo,1250,7.2,oriente
+Las Condes,20:00,20,domingo,mall,1150,7.2,oriente
+Las Condes,21:00,21,laboral,superficie,1100,7.2,oriente
+Las Condes,21:00,21,laboral,subterraneo,1350,7.2,oriente
+Las Condes,21:00,21,laboral,mall,1250,7.2,oriente
+Las Condes,21:00,21,sabado,superficie,1000,7.2,oriente
+Las Condes,21:00,21,sabado,subterraneo,1200,7.2,oriente
+Las Condes,21:00,21,sabado,mall,1100,7.2,oriente
+Las Condes,21:00,21,domingo,superficie,850,7.2,oriente
+Las Condes,21:00,21,domingo,subterraneo,1000,7.2,oriente
+Las Condes,21:00,21,domingo,mall,900,7.2,oriente
+Las Condes,22:00,22,laboral,superficie,1100,7.2,oriente
+Las Condes,22:00,22,laboral,subterraneo,1350,7.2,oriente
+Las Condes,22:00,22,laboral,mall,1250,7.2,oriente
+Las Condes,22:00,22,sabado,superficie,1000,7.2,oriente
+Las Condes,22:00,22,sabado,subterraneo,1200,7.2,oriente
+Las Condes,22:00,22,sabado,mall,1100,7.2,oriente
+Las Condes,22:00,22,domingo,superficie,850,7.2,oriente
+Las Condes,22:00,22,domingo,subterraneo,1000,7.2,oriente
+Las Condes,22:00,22,domingo,mall,900,7.2,oriente
+Providencia,07:00,7,laboral,superficie,1000,6.8,oriente
+Providencia,07:00,7,laboral,subterraneo,1200,6.8,oriente
+Providencia,07:00,7,laboral,mall,1100,6.8,oriente
+Providencia,07:00,7,sabado,superficie,900,6.8,oriente
+Providencia,07:00,7,sabado,subterraneo,1100,6.8,oriente
+Providencia,07:00,7,sabado,mall,1000,6.8,oriente
+Providencia,07:00,7,domingo,superficie,750,6.8,oriente
+Providencia,07:00,7,domingo,subterraneo,900,6.8,oriente
+Providencia,07:00,7,domingo,mall,850,6.8,oriente
+Providencia,08:00,8,laboral,superficie,1000,6.8,oriente
+Providencia,08:00,8,laboral,subterraneo,1200,6.8,oriente
+Providencia,08:00,8,laboral,mall,1100,6.8,oriente
+Providencia,08:00,8,sabado,superficie,900,6.8,oriente
+Providencia,08:00,8,sabado,subterraneo,1100,6.8,oriente
+Providencia,08:00,8,sabado,mall,1000,6.8,oriente
+Providencia,08:00,8,domingo,superficie,750,6.8,oriente
+Providencia,08:00,8,domingo,subterraneo,900,6.8,oriente
+Providencia,08:00,8,domingo,mall,850,6.8,oriente
+Providencia,09:00,9,laboral,superficie,1250,6.8,oriente
+Providencia,09:00,9,laboral,subterraneo,1500,6.8,oriente
+Providencia,09:00,9,laboral,mall,1400,6.8,oriente
+Providencia,09:00,9,sabado,superficie,1100,6.8,oriente
+Providencia,09:00,9,sabado,subterraneo,1350,6.8,oriente
+Providencia,09:00,9,sabado,mall,1250,6.8,oriente
+Providencia,09:00,9,domingo,superficie,950,6.8,oriente
+Providencia,09:00,9,domingo,subterraneo,1100,6.8,oriente
+Providencia,09:00,9,domingo,mall,1050,6.8,oriente
+Providencia,10:00,10,laboral,superficie,1250,6.8,oriente
+Providencia,10:00,10,laboral,subterraneo,1500,6.8,oriente
+Providencia,10:00,10,laboral,mall,1400,6.8,oriente
+Providencia,10:00,10,sabado,superficie,1100,6.8,oriente
+Providencia,10:00,10,sabado,subterraneo,1350,6.8,oriente
+Providencia,10:00,10,sabado,mall,1250,6.8,oriente
+Providencia,10:00,10,domingo,superficie,950,6.8,oriente
+Providencia,10:00,10,domingo,subterraneo,1100,6.8,oriente
+Providencia,10:00,10,domingo,mall,1050,6.8,oriente
+Providencia,11:00,11,laboral,superficie,1250,6.8,oriente
+Providencia,11:00,11,laboral,subterraneo,1500,6.8,oriente
+Providencia,11:00,11,laboral,mall,1400,6.8,oriente
+Providencia,11:00,11,sabado,superficie,1100,6.8,oriente
+Providencia,11:00,11,sabado,subterraneo,1350,6.8,oriente
+Providencia,11:00,11,sabado,mall,1250,6.8,oriente
+Providencia,11:00,11,domingo,superficie,950,6.8,oriente
+Providencia,11:00,11,domingo,subterraneo,1100,6.8,oriente
+Providencia,11:00,11,domingo,mall,1050,6.8,oriente
+Providencia,12:00,12,laboral,superficie,1600,6.8,oriente
+Providencia,12:00,12,laboral,subterraneo,1950,6.8,oriente
+Providencia,12:00,12,laboral,mall,1800,6.8,oriente
+Providencia,12:00,12,sabado,superficie,1450,6.8,oriente
+Providencia,12:00,12,sabado,subterraneo,1750,6.8,oriente
+Providencia,12:00,12,sabado,mall,1600,6.8,oriente
+Providencia,12:00,12,domingo,superficie,1200,6.8,oriente
+Providencia,12:00,12,domingo,subterraneo,1450,6.8,oriente
+Providencia,12:00,12,domingo,mall,1350,6.8,oriente
+Providencia,13:00,13,laboral,superficie,1600,6.8,oriente
+Providencia,13:00,13,laboral,subterraneo,1950,6.8,oriente
+Providencia,13:00,13,laboral,mall,1800,6.8,oriente
+Providencia,13:00,13,sabado,superficie,1450,6.8,oriente
+Providencia,13:00,13,sabado,subterraneo,1750,6.8,oriente
+Providencia,13:00,13,sabado,mall,1600,6.8,oriente
+Providencia,13:00,13,domingo,superficie,1200,6.8,oriente
+Providencia,13:00,13,domingo,subterraneo,1450,6.8,oriente
+Providencia,13:00,13,domingo,mall,1350,6.8,oriente
+Providencia,14:00,14,laboral,superficie,1600,6.8,oriente
+Providencia,14:00,14,laboral,subterraneo,1950,6.8,oriente
+Providencia,14:00,14,laboral,mall,1800,6.8,oriente
+Providencia,14:00,14,sabado,superficie,1450,6.8,oriente
+Providencia,14:00,14,sabado,subterraneo,1750,6.8,oriente
+Providencia,14:00,14,sabado,mall,1600,6.8,oriente
+Providencia,14:00,14,domingo,superficie,1200,6.8,oriente
+Providencia,14:00,14,domingo,subterraneo,1450,6.8,oriente
+Providencia,14:00,14,domingo,mall,1350,6.8,oriente
+Providencia,15:00,15,laboral,superficie,1250,6.8,oriente
+Providencia,15:00,15,laboral,subterraneo,1500,6.8,oriente
+Providencia,15:00,15,laboral,mall,1400,6.8,oriente
+Providencia,15:00,15,sabado,superficie,1100,6.8,oriente
+Providencia,15:00,15,sabado,subterraneo,1350,6.8,oriente
+Providencia,15:00,15,sabado,mall,1250,6.8,oriente
+Providencia,15:00,15,domingo,superficie,950,6.8,oriente
+Providencia,15:00,15,domingo,subterraneo,1100,6.8,oriente
+Providencia,15:00,15,domingo,mall,1050,6.8,oriente
+Providencia,16:00,16,laboral,superficie,1250,6.8,oriente
+Providencia,16:00,16,laboral,subterraneo,1500,6.8,oriente
+Providencia,16:00,16,laboral,mall,1400,6.8,oriente
+Providencia,16:00,16,sabado,superficie,1100,6.8,oriente
+Providencia,16:00,16,sabado,subterraneo,1350,6.8,oriente
+Providencia,16:00,16,sabado,mall,1250,6.8,oriente
+Providencia,16:00,16,domingo,superficie,950,6.8,oriente
+Providencia,16:00,16,domingo,subterraneo,1100,6.8,oriente
+Providencia,16:00,16,domingo,mall,1050,6.8,oriente
+Providencia,17:00,17,laboral,superficie,1250,6.8,oriente
+Providencia,17:00,17,laboral,subterraneo,1500,6.8,oriente
+Providencia,17:00,17,laboral,mall,1400,6.8,oriente
+Providencia,17:00,17,sabado,superficie,1100,6.8,oriente
+Providencia,17:00,17,sabado,subterraneo,1350,6.8,oriente
+Providencia,17:00,17,sabado,mall,1250,6.8,oriente
+Providencia,17:00,17,domingo,superficie,950,6.8,oriente
+Providencia,17:00,17,domingo,subterraneo,1100,6.8,oriente
+Providencia,17:00,17,domingo,mall,1050,6.8,oriente
+Providencia,18:00,18,laboral,superficie,1250,6.8,oriente
+Providencia,18:00,18,laboral,subterraneo,1500,6.8,oriente
+Providencia,18:00,18,laboral,mall,1400,6.8,oriente
+Providencia,18:00,18,sabado,superficie,1100,6.8,oriente
+Providencia,18:00,18,sabado,subterraneo,1350,6.8,oriente
+Providencia,18:00,18,sabado,mall,1250,6.8,oriente
+Providencia,18:00,18,domingo,superficie,950,6.8,oriente
+Providencia,18:00,18,domingo,subterraneo,1100,6.8,oriente
+Providencia,18:00,18,domingo,mall,1050,6.8,oriente
+Providencia,19:00,19,laboral,superficie,1250,6.8,oriente
+Providencia,19:00,19,laboral,subterraneo,1500,6.8,oriente
+Providencia,19:00,19,laboral,mall,1400,6.8,oriente
+Providencia,19:00,19,sabado,superficie,1100,6.8,oriente
+Providencia,19:00,19,sabado,subterraneo,1350,6.8,oriente
+Providencia,19:00,19,sabado,mall,1250,6.8,oriente
+Providencia,19:00,19,domingo,superficie,950,6.8,oriente
+Providencia,19:00,19,domingo,subterraneo,1100,6.8,oriente
+Providencia,19:00,19,domingo,mall,1050,6.8,oriente
+Providencia,20:00,20,laboral,superficie,1250,6.8,oriente
+Providencia,20:00,20,laboral,subterraneo,1500,6.8,oriente
+Providencia,20:00,20,laboral,mall,1400,6.8,oriente
+Providencia,20:00,20,sabado,superficie,1100,6.8,oriente
+Providencia,20:00,20,sabado,subterraneo,1350,6.8,oriente
+Providencia,20:00,20,sabado,mall,1250,6.8,oriente
+Providencia,20:00,20,domingo,superficie,950,6.8,oriente
+Providencia,20:00,20,domingo,subterraneo,1100,6.8,oriente
+Providencia,20:00,20,domingo,mall,1050,6.8,oriente
+Providencia,21:00,21,laboral,superficie,1000,6.8,oriente
+Providencia,21:00,21,laboral,subterraneo,1200,6.8,oriente
+Providencia,21:00,21,laboral,mall,1100,6.8,oriente
+Providencia,21:00,21,sabado,superficie,900,6.8,oriente
+Providencia,21:00,21,sabado,subterraneo,1100,6.8,oriente
+Providencia,21:00,21,sabado,mall,1000,6.8,oriente
+Providencia,21:00,21,domingo,superficie,750,6.8,oriente
+Providencia,21:00,21,domingo,subterraneo,900,6.8,oriente
+Providencia,21:00,21,domingo,mall,850,6.8,oriente
+Providencia,22:00,22,laboral,superficie,1000,6.8,oriente
+Providencia,22:00,22,laboral,subterraneo,1200,6.8,oriente
+Providencia,22:00,22,laboral,mall,1100,6.8,oriente
+Providencia,22:00,22,sabado,superficie,900,6.8,oriente
+Providencia,22:00,22,sabado,subterraneo,1100,6.8,oriente
+Providencia,22:00,22,sabado,mall,1000,6.8,oriente
+Providencia,22:00,22,domingo,superficie,750,6.8,oriente
+Providencia,22:00,22,domingo,subterraneo,900,6.8,oriente
+Providencia,22:00,22,domingo,mall,850,6.8,oriente
+Santiago Centro,07:00,7,laboral,superficie,900,5.1,centro
+Santiago Centro,07:00,7,laboral,subterraneo,1050,5.1,centro
+Santiago Centro,07:00,7,laboral,mall,950,5.1,centro
+Santiago Centro,07:00,7,sabado,superficie,800,5.1,centro
+Santiago Centro,07:00,7,sabado,subterraneo,950,5.1,centro
+Santiago Centro,07:00,7,sabado,mall,850,5.1,centro
+Santiago Centro,07:00,7,domingo,superficie,650,5.1,centro
+Santiago Centro,07:00,7,domingo,subterraneo,800,5.1,centro
+Santiago Centro,07:00,7,domingo,mall,750,5.1,centro
+Santiago Centro,08:00,8,laboral,superficie,900,5.1,centro
+Santiago Centro,08:00,8,laboral,subterraneo,1050,5.1,centro
+Santiago Centro,08:00,8,laboral,mall,950,5.1,centro
+Santiago Centro,08:00,8,sabado,superficie,800,5.1,centro
+Santiago Centro,08:00,8,sabado,subterraneo,950,5.1,centro
+Santiago Centro,08:00,8,sabado,mall,850,5.1,centro
+Santiago Centro,08:00,8,domingo,superficie,650,5.1,centro
+Santiago Centro,08:00,8,domingo,subterraneo,800,5.1,centro
+Santiago Centro,08:00,8,domingo,mall,750,5.1,centro
+Santiago Centro,09:00,9,laboral,superficie,1100,5.1,centro
+Santiago Centro,09:00,9,laboral,subterraneo,1300,5.1,centro
+Santiago Centro,09:00,9,laboral,mall,1200,5.1,centro
+Santiago Centro,09:00,9,sabado,superficie,1000,5.1,centro
+Santiago Centro,09:00,9,sabado,subterraneo,1200,5.1,centro
+Santiago Centro,09:00,9,sabado,mall,1100,5.1,centro
+Santiago Centro,09:00,9,domingo,superficie,800,5.1,centro
+Santiago Centro,09:00,9,domingo,subterraneo,1000,5.1,centro
+Santiago Centro,09:00,9,domingo,mall,900,5.1,centro
+Santiago Centro,10:00,10,laboral,superficie,1100,5.1,centro
+Santiago Centro,10:00,10,laboral,subterraneo,1300,5.1,centro
+Santiago Centro,10:00,10,laboral,mall,1200,5.1,centro
+Santiago Centro,10:00,10,sabado,superficie,1000,5.1,centro
+Santiago Centro,10:00,10,sabado,subterraneo,1200,5.1,centro
+Santiago Centro,10:00,10,sabado,mall,1100,5.1,centro
+Santiago Centro,10:00,10,domingo,superficie,800,5.1,centro
+Santiago Centro,10:00,10,domingo,subterraneo,1000,5.1,centro
+Santiago Centro,10:00,10,domingo,mall,900,5.1,centro
+Santiago Centro,11:00,11,laboral,superficie,1100,5.1,centro
+Santiago Centro,11:00,11,laboral,subterraneo,1300,5.1,centro
+Santiago Centro,11:00,11,laboral,mall,1200,5.1,centro
+Santiago Centro,11:00,11,sabado,superficie,1000,5.1,centro
+Santiago Centro,11:00,11,sabado,subterraneo,1200,5.1,centro
+Santiago Centro,11:00,11,sabado,mall,1100,5.1,centro
+Santiago Centro,11:00,11,domingo,superficie,800,5.1,centro
+Santiago Centro,11:00,11,domingo,subterraneo,1000,5.1,centro
+Santiago Centro,11:00,11,domingo,mall,900,5.1,centro
+Santiago Centro,12:00,12,laboral,superficie,1450,5.1,centro
+Santiago Centro,12:00,12,laboral,subterraneo,1700,5.1,centro
+Santiago Centro,12:00,12,laboral,mall,1550,5.1,centro
+Santiago Centro,12:00,12,sabado,superficie,1300,5.1,centro
+Santiago Centro,12:00,12,sabado,subterraneo,1550,5.1,centro
+Santiago Centro,12:00,12,sabado,mall,1400,5.1,centro
+Santiago Centro,12:00,12,domingo,superficie,1050,5.1,centro
+Santiago Centro,12:00,12,domingo,subterraneo,1300,5.1,centro
+Santiago Centro,12:00,12,domingo,mall,1200,5.1,centro
+Santiago Centro,13:00,13,laboral,superficie,1450,5.1,centro
+Santiago Centro,13:00,13,laboral,subterraneo,1700,5.1,centro
+Santiago Centro,13:00,13,laboral,mall,1550,5.1,centro
+Santiago Centro,13:00,13,sabado,superficie,1300,5.1,centro
+Santiago Centro,13:00,13,sabado,subterraneo,1550,5.1,centro
+Santiago Centro,13:00,13,sabado,mall,1400,5.1,centro
+Santiago Centro,13:00,13,domingo,superficie,1050,5.1,centro
+Santiago Centro,13:00,13,domingo,subterraneo,1300,5.1,centro
+Santiago Centro,13:00,13,domingo,mall,1200,5.1,centro
+Santiago Centro,14:00,14,laboral,superficie,1450,5.1,centro
+Santiago Centro,14:00,14,laboral,subterraneo,1700,5.1,centro
+Santiago Centro,14:00,14,laboral,mall,1550,5.1,centro
+Santiago Centro,14:00,14,sabado,superficie,1300,5.1,centro
+Santiago Centro,14:00,14,sabado,subterraneo,1550,5.1,centro
+Santiago Centro,14:00,14,sabado,mall,1400,5.1,centro
+Santiago Centro,14:00,14,domingo,superficie,1050,5.1,centro
+Santiago Centro,14:00,14,domingo,subterraneo,1300,5.1,centro
+Santiago Centro,14:00,14,domingo,mall,1200,5.1,centro
+Santiago Centro,15:00,15,laboral,superficie,1100,5.1,centro
+Santiago Centro,15:00,15,laboral,subterraneo,1300,5.1,centro
+Santiago Centro,15:00,15,laboral,mall,1200,5.1,centro
+Santiago Centro,15:00,15,sabado,superficie,1000,5.1,centro
+Santiago Centro,15:00,15,sabado,subterraneo,1200,5.1,centro
+Santiago Centro,15:00,15,sabado,mall,1100,5.1,centro
+Santiago Centro,15:00,15,domingo,superficie,800,5.1,centro
+Santiago Centro,15:00,15,domingo,subterraneo,1000,5.1,centro
+Santiago Centro,15:00,15,domingo,mall,900,5.1,centro
+Santiago Centro,16:00,16,laboral,superficie,1100,5.1,centro
+Santiago Centro,16:00,16,laboral,subterraneo,1300,5.1,centro
+Santiago Centro,16:00,16,laboral,mall,1200,5.1,centro
+Santiago Centro,16:00,16,sabado,superficie,1000,5.1,centro
+Santiago Centro,16:00,16,sabado,subterraneo,1200,5.1,centro
+Santiago Centro,16:00,16,sabado,mall,1100,5.1,centro
+Santiago Centro,16:00,16,domingo,superficie,800,5.1,centro
+Santiago Centro,16:00,16,domingo,subterraneo,1000,5.1,centro
+Santiago Centro,16:00,16,domingo,mall,900,5.1,centro
+Santiago Centro,17:00,17,laboral,superficie,1100,5.1,centro
+Santiago Centro,17:00,17,laboral,subterraneo,1300,5.1,centro
+Santiago Centro,17:00,17,laboral,mall,1200,5.1,centro
+Santiago Centro,17:00,17,sabado,superficie,1000,5.1,centro
+Santiago Centro,17:00,17,sabado,subterraneo,1200,5.1,centro
+Santiago Centro,17:00,17,sabado,mall,1100,5.1,centro
+Santiago Centro,17:00,17,domingo,superficie,800,5.1,centro
+Santiago Centro,17:00,17,domingo,subterraneo,1000,5.1,centro
+Santiago Centro,17:00,17,domingo,mall,900,5.1,centro
+Santiago Centro,18:00,18,laboral,superficie,1100,5.1,centro
+Santiago Centro,18:00,18,laboral,subterraneo,1300,5.1,centro
+Santiago Centro,18:00,18,laboral,mall,1200,5.1,centro
+Santiago Centro,18:00,18,sabado,superficie,1000,5.1,centro
+Santiago Centro,18:00,18,sabado,subterraneo,1200,5.1,centro
+Santiago Centro,18:00,18,sabado,mall,1100,5.1,centro
+Santiago Centro,18:00,18,domingo,superficie,800,5.1,centro
+Santiago Centro,18:00,18,domingo,subterraneo,1000,5.1,centro
+Santiago Centro,18:00,18,domingo,mall,900,5.1,centro
+Santiago Centro,19:00,19,laboral,superficie,1100,5.1,centro
+Santiago Centro,19:00,19,laboral,subterraneo,1300,5.1,centro
+Santiago Centro,19:00,19,laboral,mall,1200,5.1,centro
+Santiago Centro,19:00,19,sabado,superficie,1000,5.1,centro
+Santiago Centro,19:00,19,sabado,subterraneo,1200,5.1,centro
+Santiago Centro,19:00,19,sabado,mall,1100,5.1,centro
+Santiago Centro,19:00,19,domingo,superficie,800,5.1,centro
+Santiago Centro,19:00,19,domingo,subterraneo,1000,5.1,centro
+Santiago Centro,19:00,19,domingo,mall,900,5.1,centro
+Santiago Centro,20:00,20,laboral,superficie,1100,5.1,centro
+Santiago Centro,20:00,20,laboral,subterraneo,1300,5.1,centro
+Santiago Centro,20:00,20,laboral,mall,1200,5.1,centro
+Santiago Centro,20:00,20,sabado,superficie,1000,5.1,centro
+Santiago Centro,20:00,20,sabado,subterraneo,1200,5.1,centro
+Santiago Centro,20:00,20,sabado,mall,1100,5.1,centro
+Santiago Centro,20:00,20,domingo,superficie,800,5.1,centro
+Santiago Centro,20:00,20,domingo,subterraneo,1000,5.1,centro
+Santiago Centro,20:00,20,domingo,mall,900,5.1,centro
+Santiago Centro,21:00,21,laboral,superficie,900,5.1,centro
+Santiago Centro,21:00,21,laboral,subterraneo,1050,5.1,centro
+Santiago Centro,21:00,21,laboral,mall,950,5.1,centro
+Santiago Centro,21:00,21,sabado,superficie,800,5.1,centro
+Santiago Centro,21:00,21,sabado,subterraneo,950,5.1,centro
+Santiago Centro,21:00,21,sabado,mall,850,5.1,centro
+Santiago Centro,21:00,21,domingo,superficie,650,5.1,centro
+Santiago Centro,21:00,21,domingo,subterraneo,800,5.1,centro
+Santiago Centro,21:00,21,domingo,mall,750,5.1,centro
+Santiago Centro,22:00,22,laboral,superficie,900,5.1,centro
+Santiago Centro,22:00,22,laboral,subterraneo,1050,5.1,centro
+Santiago Centro,22:00,22,laboral,mall,950,5.1,centro
+Santiago Centro,22:00,22,sabado,superficie,800,5.1,centro
+Santiago Centro,22:00,22,sabado,subterraneo,950,5.1,centro
+Santiago Centro,22:00,22,sabado,mall,850,5.1,centro
+Santiago Centro,22:00,22,domingo,superficie,650,5.1,centro
+Santiago Centro,22:00,22,domingo,subterraneo,800,5.1,centro
+Santiago Centro,22:00,22,domingo,mall,750,5.1,centro
+Ñuñoa,07:00,7,laboral,superficie,750,6.5,oriente
+Ñuñoa,07:00,7,laboral,subterraneo,900,6.5,oriente
+Ñuñoa,07:00,7,laboral,mall,850,6.5,oriente
+Ñuñoa,07:00,7,sabado,superficie,700,6.5,oriente
+Ñuñoa,07:00,7,sabado,subterraneo,800,6.5,oriente
+Ñuñoa,07:00,7,sabado,mall,750,6.5,oriente
+Ñuñoa,07:00,7,domingo,superficie,550,6.5,oriente
+Ñuñoa,07:00,7,domingo,subterraneo,700,6.5,oriente
+Ñuñoa,07:00,7,domingo,mall,650,6.5,oriente
+Ñuñoa,08:00,8,laboral,superficie,750,6.5,oriente
+Ñuñoa,08:00,8,laboral,subterraneo,900,6.5,oriente
+Ñuñoa,08:00,8,laboral,mall,850,6.5,oriente
+Ñuñoa,08:00,8,sabado,superficie,700,6.5,oriente
+Ñuñoa,08:00,8,sabado,subterraneo,800,6.5,oriente
+Ñuñoa,08:00,8,sabado,mall,750,6.5,oriente
+Ñuñoa,08:00,8,domingo,superficie,550,6.5,oriente
+Ñuñoa,08:00,8,domingo,subterraneo,700,6.5,oriente
+Ñuñoa,08:00,8,domingo,mall,650,6.5,oriente
+Ñuñoa,09:00,9,laboral,superficie,950,6.5,oriente
+Ñuñoa,09:00,9,laboral,subterraneo,1150,6.5,oriente
+Ñuñoa,09:00,9,laboral,mall,1050,6.5,oriente
+Ñuñoa,09:00,9,sabado,superficie,850,6.5,oriente
+Ñuñoa,09:00,9,sabado,subterraneo,1050,6.5,oriente
+Ñuñoa,09:00,9,sabado,mall,950,6.5,oriente
+Ñuñoa,09:00,9,domingo,superficie,700,6.5,oriente
+Ñuñoa,09:00,9,domingo,subterraneo,850,6.5,oriente
+Ñuñoa,09:00,9,domingo,mall,800,6.5,oriente
+Ñuñoa,10:00,10,laboral,superficie,950,6.5,oriente
+Ñuñoa,10:00,10,laboral,subterraneo,1150,6.5,oriente
+Ñuñoa,10:00,10,laboral,mall,1050,6.5,oriente
+Ñuñoa,10:00,10,sabado,superficie,850,6.5,oriente
+Ñuñoa,10:00,10,sabado,subterraneo,1050,6.5,oriente
+Ñuñoa,10:00,10,sabado,mall,950,6.5,oriente
+Ñuñoa,10:00,10,domingo,superficie,700,6.5,oriente
+Ñuñoa,10:00,10,domingo,subterraneo,850,6.5,oriente
+Ñuñoa,10:00,10,domingo,mall,800,6.5,oriente
+Ñuñoa,11:00,11,laboral,superficie,950,6.5,oriente
+Ñuñoa,11:00,11,laboral,subterraneo,1150,6.5,oriente
+Ñuñoa,11:00,11,laboral,mall,1050,6.5,oriente
+Ñuñoa,11:00,11,sabado,superficie,850,6.5,oriente
+Ñuñoa,11:00,11,sabado,subterraneo,1050,6.5,oriente
+Ñuñoa,11:00,11,sabado,mall,950,6.5,oriente
+Ñuñoa,11:00,11,domingo,superficie,700,6.5,oriente
+Ñuñoa,11:00,11,domingo,subterraneo,850,6.5,oriente
+Ñuñoa,11:00,11,domingo,mall,800,6.5,oriente
+Ñuñoa,12:00,12,laboral,superficie,1250,6.5,oriente
+Ñuñoa,12:00,12,laboral,subterraneo,1500,6.5,oriente
+Ñuñoa,12:00,12,laboral,mall,1350,6.5,oriente
+Ñuñoa,12:00,12,sabado,superficie,1100,6.5,oriente
+Ñuñoa,12:00,12,sabado,subterraneo,1350,6.5,oriente
+Ñuñoa,12:00,12,sabado,mall,1200,6.5,oriente
+Ñuñoa,12:00,12,domingo,superficie,950,6.5,oriente
+Ñuñoa,12:00,12,domingo,subterraneo,1100,6.5,oriente
+Ñuñoa,12:00,12,domingo,mall,1000,6.5,oriente
+Ñuñoa,13:00,13,laboral,superficie,1250,6.5,oriente
+Ñuñoa,13:00,13,laboral,subterraneo,1500,6.5,oriente
+Ñuñoa,13:00,13,laboral,mall,1350,6.5,oriente
+Ñuñoa,13:00,13,sabado,superficie,1100,6.5,oriente
+Ñuñoa,13:00,13,sabado,subterraneo,1350,6.5,oriente
+Ñuñoa,13:00,13,sabado,mall,1200,6.5,oriente
+Ñuñoa,13:00,13,domingo,superficie,950,6.5,oriente
+Ñuñoa,13:00,13,domingo,subterraneo,1100,6.5,oriente
+Ñuñoa,13:00,13,domingo,mall,1000,6.5,oriente
+Ñuñoa,14:00,14,laboral,superficie,1250,6.5,oriente
+Ñuñoa,14:00,14,laboral,subterraneo,1500,6.5,oriente
+Ñuñoa,14:00,14,laboral,mall,1350,6.5,oriente
+Ñuñoa,14:00,14,sabado,superficie,1100,6.5,oriente
+Ñuñoa,14:00,14,sabado,subterraneo,1350,6.5,oriente
+Ñuñoa,14:00,14,sabado,mall,1200,6.5,oriente
+Ñuñoa,14:00,14,domingo,superficie,950,6.5,oriente
+Ñuñoa,14:00,14,domingo,subterraneo,1100,6.5,oriente
+Ñuñoa,14:00,14,domingo,mall,1000,6.5,oriente
+Ñuñoa,15:00,15,laboral,superficie,950,6.5,oriente
+Ñuñoa,15:00,15,laboral,subterraneo,1150,6.5,oriente
+Ñuñoa,15:00,15,laboral,mall,1050,6.5,oriente
+Ñuñoa,15:00,15,sabado,superficie,850,6.5,oriente
+Ñuñoa,15:00,15,sabado,subterraneo,1050,6.5,oriente
+Ñuñoa,15:00,15,sabado,mall,950,6.5,oriente
+Ñuñoa,15:00,15,domingo,superficie,700,6.5,oriente
+Ñuñoa,15:00,15,domingo,subterraneo,850,6.5,oriente
+Ñuñoa,15:00,15,domingo,mall,800,6.5,oriente
+Ñuñoa,16:00,16,laboral,superficie,950,6.5,oriente
+Ñuñoa,16:00,16,laboral,subterraneo,1150,6.5,oriente
+Ñuñoa,16:00,16,laboral,mall,1050,6.5,oriente
+Ñuñoa,16:00,16,sabado,superficie,850,6.5,oriente
+Ñuñoa,16:00,16,sabado,subterraneo,1050,6.5,oriente
+Ñuñoa,16:00,16,sabado,mall,950,6.5,oriente
+Ñuñoa,16:00,16,domingo,superficie,700,6.5,oriente
+Ñuñoa,16:00,16,domingo,subterraneo,850,6.5,oriente
+Ñuñoa,16:00,16,domingo,mall,800,6.5,oriente
+Ñuñoa,17:00,17,laboral,superficie,950,6.5,oriente
+Ñuñoa,17:00,17,laboral,subterraneo,1150,6.5,oriente
+Ñuñoa,17:00,17,laboral,mall,1050,6.5,oriente
+Ñuñoa,17:00,17,sabado,superficie,850,6.5,oriente
+Ñuñoa,17:00,17,sabado,subterraneo,1050,6.5,oriente
+Ñuñoa,17:00,17,sabado,mall,950,6.5,oriente
+Ñuñoa,17:00,17,domingo,superficie,700,6.5,oriente
+Ñuñoa,17:00,17,domingo,subterraneo,850,6.5,oriente
+Ñuñoa,17:00,17,domingo,mall,800,6.5,oriente
+Ñuñoa,18:00,18,laboral,superficie,950,6.5,oriente
+Ñuñoa,18:00,18,laboral,subterraneo,1150,6.5,oriente
+Ñuñoa,18:00,18,laboral,mall,1050,6.5,oriente
+Ñuñoa,18:00,18,sabado,superficie,850,6.5,oriente
+Ñuñoa,18:00,18,sabado,subterraneo,1050,6.5,oriente
+Ñuñoa,18:00,18,sabado,mall,950,6.5,oriente
+Ñuñoa,18:00,18,domingo,superficie,700,6.5,oriente
+Ñuñoa,18:00,18,domingo,subterraneo,850,6.5,oriente
+Ñuñoa,18:00,18,domingo,mall,800,6.5,oriente
+Ñuñoa,19:00,19,laboral,superficie,950,6.5,oriente
+Ñuñoa,19:00,19,laboral,subterraneo,1150,6.5,oriente
+Ñuñoa,19:00,19,laboral,mall,1050,6.5,oriente
+Ñuñoa,19:00,19,sabado,superficie,850,6.5,oriente
+Ñuñoa,19:00,19,sabado,subterraneo,1050,6.5,oriente
+Ñuñoa,19:00,19,sabado,mall,950,6.5,oriente
+Ñuñoa,19:00,19,domingo,superficie,700,6.5,oriente
+Ñuñoa,19:00,19,domingo,subterraneo,850,6.5,oriente
+Ñuñoa,19:00,19,domingo,mall,800,6.5,oriente
+Ñuñoa,20:00,20,laboral,superficie,950,6.5,oriente
+Ñuñoa,20:00,20,laboral,subterraneo,1150,6.5,oriente
+Ñuñoa,20:00,20,laboral,mall,1050,6.5,oriente
+Ñuñoa,20:00,20,sabado,superficie,850,6.5,oriente
+Ñuñoa,20:00,20,sabado,subterraneo,1050,6.5,oriente
+Ñuñoa,20:00,20,sabado,mall,950,6.5,oriente
+Ñuñoa,20:00,20,domingo,superficie,700,6.5,oriente
+Ñuñoa,20:00,20,domingo,subterraneo,850,6.5,oriente
+Ñuñoa,20:00,20,domingo,mall,800,6.5,oriente
+Ñuñoa,21:00,21,laboral,superficie,750,6.5,oriente
+Ñuñoa,21:00,21,laboral,subterraneo,900,6.5,oriente
+Ñuñoa,21:00,21,laboral,mall,850,6.5,oriente
+Ñuñoa,21:00,21,sabado,superficie,700,6.5,oriente
+Ñuñoa,21:00,21,sabado,subterraneo,800,6.5,oriente
+Ñuñoa,21:00,21,sabado,mall,750,6.5,oriente
+Ñuñoa,21:00,21,domingo,superficie,550,6.5,oriente
+Ñuñoa,21:00,21,domingo,subterraneo,700,6.5,oriente
+Ñuñoa,21:00,21,domingo,mall,650,6.5,oriente
+Ñuñoa,22:00,22,laboral,superficie,750,6.5,oriente
+Ñuñoa,22:00,22,laboral,subterraneo,900,6.5,oriente
+Ñuñoa,22:00,22,laboral,mall,850,6.5,oriente
+Ñuñoa,22:00,22,sabado,superficie,700,6.5,oriente
+Ñuñoa,22:00,22,sabado,subterraneo,800,6.5,oriente
+Ñuñoa,22:00,22,sabado,mall,750,6.5,oriente
+Ñuñoa,22:00,22,domingo,superficie,550,6.5,oriente
+Ñuñoa,22:00,22,domingo,subterraneo,700,6.5,oriente
+Ñuñoa,22:00,22,domingo,mall,650,6.5,oriente
+Vitacura,07:00,7,laboral,superficie,1300,8.1,oriente
+Vitacura,07:00,7,laboral,subterraneo,1550,8.1,oriente
+Vitacura,07:00,7,laboral,mall,1400,8.1,oriente
+Vitacura,07:00,7,sabado,superficie,1150,8.1,oriente
+Vitacura,07:00,7,sabado,subterraneo,1400,8.1,oriente
+Vitacura,07:00,7,sabado,mall,1250,8.1,oriente
+Vitacura,07:00,7,domingo,superficie,950,8.1,oriente
+Vitacura,07:00,7,domingo,subterraneo,1150,8.1,oriente
+Vitacura,07:00,7,domingo,mall,1050,8.1,oriente
+Vitacura,08:00,8,laboral,superficie,1300,8.1,oriente
+Vitacura,08:00,8,laboral,subterraneo,1550,8.1,oriente
+Vitacura,08:00,8,laboral,mall,1400,8.1,oriente
+Vitacura,08:00,8,sabado,superficie,1150,8.1,oriente
+Vitacura,08:00,8,sabado,subterraneo,1400,8.1,oriente
+Vitacura,08:00,8,sabado,mall,1250,8.1,oriente
+Vitacura,08:00,8,domingo,superficie,950,8.1,oriente
+Vitacura,08:00,8,domingo,subterraneo,1150,8.1,oriente
+Vitacura,08:00,8,domingo,mall,1050,8.1,oriente
+Vitacura,09:00,9,laboral,superficie,1600,8.1,oriente
+Vitacura,09:00,9,laboral,subterraneo,1900,8.1,oriente
+Vitacura,09:00,9,laboral,mall,1750,8.1,oriente
+Vitacura,09:00,9,sabado,superficie,1450,8.1,oriente
+Vitacura,09:00,9,sabado,subterraneo,1750,8.1,oriente
+Vitacura,09:00,9,sabado,mall,1600,8.1,oriente
+Vitacura,09:00,9,domingo,superficie,1200,8.1,oriente
+Vitacura,09:00,9,domingo,subterraneo,1450,8.1,oriente
+Vitacura,09:00,9,domingo,mall,1300,8.1,oriente
+Vitacura,10:00,10,laboral,superficie,1600,8.1,oriente
+Vitacura,10:00,10,laboral,subterraneo,1900,8.1,oriente
+Vitacura,10:00,10,laboral,mall,1750,8.1,oriente
+Vitacura,10:00,10,sabado,superficie,1450,8.1,oriente
+Vitacura,10:00,10,sabado,subterraneo,1750,8.1,oriente
+Vitacura,10:00,10,sabado,mall,1600,8.1,oriente
+Vitacura,10:00,10,domingo,superficie,1200,8.1,oriente
+Vitacura,10:00,10,domingo,subterraneo,1450,8.1,oriente
+Vitacura,10:00,10,domingo,mall,1300,8.1,oriente
+Vitacura,11:00,11,laboral,superficie,1600,8.1,oriente
+Vitacura,11:00,11,laboral,subterraneo,1900,8.1,oriente
+Vitacura,11:00,11,laboral,mall,1750,8.1,oriente
+Vitacura,11:00,11,sabado,superficie,1450,8.1,oriente
+Vitacura,11:00,11,sabado,subterraneo,1750,8.1,oriente
+Vitacura,11:00,11,sabado,mall,1600,8.1,oriente
+Vitacura,11:00,11,domingo,superficie,1200,8.1,oriente
+Vitacura,11:00,11,domingo,subterraneo,1450,8.1,oriente
+Vitacura,11:00,11,domingo,mall,1300,8.1,oriente
+Vitacura,12:00,12,laboral,superficie,2100,8.1,oriente
+Vitacura,12:00,12,laboral,subterraneo,2500,8.1,oriente
+Vitacura,12:00,12,laboral,mall,2300,8.1,oriente
+Vitacura,12:00,12,sabado,superficie,1850,8.1,oriente
+Vitacura,12:00,12,sabado,subterraneo,2250,8.1,oriente
+Vitacura,12:00,12,sabado,mall,2050,8.1,oriente
+Vitacura,12:00,12,domingo,superficie,1550,8.1,oriente
+Vitacura,12:00,12,domingo,subterraneo,1850,8.1,oriente
+Vitacura,12:00,12,domingo,mall,1700,8.1,oriente
+Vitacura,13:00,13,laboral,superficie,2100,8.1,oriente
+Vitacura,13:00,13,laboral,subterraneo,2500,8.1,oriente
+Vitacura,13:00,13,laboral,mall,2300,8.1,oriente
+Vitacura,13:00,13,sabado,superficie,1850,8.1,oriente
+Vitacura,13:00,13,sabado,subterraneo,2250,8.1,oriente
+Vitacura,13:00,13,sabado,mall,2050,8.1,oriente
+Vitacura,13:00,13,domingo,superficie,1550,8.1,oriente
+Vitacura,13:00,13,domingo,subterraneo,1850,8.1,oriente
+Vitacura,13:00,13,domingo,mall,1700,8.1,oriente
+Vitacura,14:00,14,laboral,superficie,2100,8.1,oriente
+Vitacura,14:00,14,laboral,subterraneo,2500,8.1,oriente
+Vitacura,14:00,14,laboral,mall,2300,8.1,oriente
+Vitacura,14:00,14,sabado,superficie,1850,8.1,oriente
+Vitacura,14:00,14,sabado,subterraneo,2250,8.1,oriente
+Vitacura,14:00,14,sabado,mall,2050,8.1,oriente
+Vitacura,14:00,14,domingo,superficie,1550,8.1,oriente
+Vitacura,14:00,14,domingo,subterraneo,1850,8.1,oriente
+Vitacura,14:00,14,domingo,mall,1700,8.1,oriente
+Vitacura,15:00,15,laboral,superficie,1600,8.1,oriente
+Vitacura,15:00,15,laboral,subterraneo,1900,8.1,oriente
+Vitacura,15:00,15,laboral,mall,1750,8.1,oriente
+Vitacura,15:00,15,sabado,superficie,1450,8.1,oriente
+Vitacura,15:00,15,sabado,subterraneo,1750,8.1,oriente
+Vitacura,15:00,15,sabado,mall,1600,8.1,oriente
+Vitacura,15:00,15,domingo,superficie,1200,8.1,oriente
+Vitacura,15:00,15,domingo,subterraneo,1450,8.1,oriente
+Vitacura,15:00,15,domingo,mall,1300,8.1,oriente
+Vitacura,16:00,16,laboral,superficie,1600,8.1,oriente
+Vitacura,16:00,16,laboral,subterraneo,1900,8.1,oriente
+Vitacura,16:00,16,laboral,mall,1750,8.1,oriente
+Vitacura,16:00,16,sabado,superficie,1450,8.1,oriente
+Vitacura,16:00,16,sabado,subterraneo,1750,8.1,oriente
+Vitacura,16:00,16,sabado,mall,1600,8.1,oriente
+Vitacura,16:00,16,domingo,superficie,1200,8.1,oriente
+Vitacura,16:00,16,domingo,subterraneo,1450,8.1,oriente
+Vitacura,16:00,16,domingo,mall,1300,8.1,oriente
+Vitacura,17:00,17,laboral,superficie,1600,8.1,oriente
+Vitacura,17:00,17,laboral,subterraneo,1900,8.1,oriente
+Vitacura,17:00,17,laboral,mall,1750,8.1,oriente
+Vitacura,17:00,17,sabado,superficie,1450,8.1,oriente
+Vitacura,17:00,17,sabado,subterraneo,1750,8.1,oriente
+Vitacura,17:00,17,sabado,mall,1600,8.1,oriente
+Vitacura,17:00,17,domingo,superficie,1200,8.1,oriente
+Vitacura,17:00,17,domingo,subterraneo,1450,8.1,oriente
+Vitacura,17:00,17,domingo,mall,1300,8.1,oriente
+Vitacura,18:00,18,laboral,superficie,1600,8.1,oriente
+Vitacura,18:00,18,laboral,subterraneo,1900,8.1,oriente
+Vitacura,18:00,18,laboral,mall,1750,8.1,oriente
+Vitacura,18:00,18,sabado,superficie,1450,8.1,oriente
+Vitacura,18:00,18,sabado,subterraneo,1750,8.1,oriente
+Vitacura,18:00,18,sabado,mall,1600,8.1,oriente
+Vitacura,18:00,18,domingo,superficie,1200,8.1,oriente
+Vitacura,18:00,18,domingo,subterraneo,1450,8.1,oriente
+Vitacura,18:00,18,domingo,mall,1300,8.1,oriente
+Vitacura,19:00,19,laboral,superficie,1600,8.1,oriente
+Vitacura,19:00,19,laboral,subterraneo,1900,8.1,oriente
+Vitacura,19:00,19,laboral,mall,1750,8.1,oriente
+Vitacura,19:00,19,sabado,superficie,1450,8.1,oriente
+Vitacura,19:00,19,sabado,subterraneo,1750,8.1,oriente
+Vitacura,19:00,19,sabado,mall,1600,8.1,oriente
+Vitacura,19:00,19,domingo,superficie,1200,8.1,oriente
+Vitacura,19:00,19,domingo,subterraneo,1450,8.1,oriente
+Vitacura,19:00,19,domingo,mall,1300,8.1,oriente
+Vitacura,20:00,20,laboral,superficie,1600,8.1,oriente
+Vitacura,20:00,20,laboral,subterraneo,1900,8.1,oriente
+Vitacura,20:00,20,laboral,mall,1750,8.1,oriente
+Vitacura,20:00,20,sabado,superficie,1450,8.1,oriente
+Vitacura,20:00,20,sabado,subterraneo,1750,8.1,oriente
+Vitacura,20:00,20,sabado,mall,1600,8.1,oriente
+Vitacura,20:00,20,domingo,superficie,1200,8.1,oriente
+Vitacura,20:00,20,domingo,subterraneo,1450,8.1,oriente
+Vitacura,20:00,20,domingo,mall,1300,8.1,oriente
+Vitacura,21:00,21,laboral,superficie,1300,8.1,oriente
+Vitacura,21:00,21,laboral,subterraneo,1550,8.1,oriente
+Vitacura,21:00,21,laboral,mall,1400,8.1,oriente
+Vitacura,21:00,21,sabado,superficie,1150,8.1,oriente
+Vitacura,21:00,21,sabado,subterraneo,1400,8.1,oriente
+Vitacura,21:00,21,sabado,mall,1250,8.1,oriente
+Vitacura,21:00,21,domingo,superficie,950,8.1,oriente
+Vitacura,21:00,21,domingo,subterraneo,1150,8.1,oriente
+Vitacura,21:00,21,domingo,mall,1050,8.1,oriente
+Vitacura,22:00,22,laboral,superficie,1300,8.1,oriente
+Vitacura,22:00,22,laboral,subterraneo,1550,8.1,oriente
+Vitacura,22:00,22,laboral,mall,1400,8.1,oriente
+Vitacura,22:00,22,sabado,superficie,1150,8.1,oriente
+Vitacura,22:00,22,sabado,subterraneo,1400,8.1,oriente
+Vitacura,22:00,22,sabado,mall,1250,8.1,oriente
+Vitacura,22:00,22,domingo,superficie,950,8.1,oriente
+Vitacura,22:00,22,domingo,subterraneo,1150,8.1,oriente
+Vitacura,22:00,22,domingo,mall,1050,8.1,oriente
+Maipú,07:00,7,laboral,superficie,600,5.8,poniente
+Maipú,07:00,7,laboral,subterraneo,700,5.8,poniente
+Maipú,07:00,7,laboral,mall,650,5.8,poniente
+Maipú,07:00,7,sabado,superficie,550,5.8,poniente
+Maipú,07:00,7,sabado,subterraneo,650,5.8,poniente
+Maipú,07:00,7,sabado,mall,600,5.8,poniente
+Maipú,07:00,7,domingo,superficie,450,5.8,poniente
+Maipú,07:00,7,domingo,subterraneo,550,5.8,poniente
+Maipú,07:00,7,domingo,mall,500,5.8,poniente
+Maipú,08:00,8,laboral,superficie,600,5.8,poniente
+Maipú,08:00,8,laboral,subterraneo,700,5.8,poniente
+Maipú,08:00,8,laboral,mall,650,5.8,poniente
+Maipú,08:00,8,sabado,superficie,550,5.8,poniente
+Maipú,08:00,8,sabado,subterraneo,650,5.8,poniente
+Maipú,08:00,8,sabado,mall,600,5.8,poniente
+Maipú,08:00,8,domingo,superficie,450,5.8,poniente
+Maipú,08:00,8,domingo,subterraneo,550,5.8,poniente
+Maipú,08:00,8,domingo,mall,500,5.8,poniente
+Maipú,09:00,9,laboral,superficie,750,5.8,poniente
+Maipú,09:00,9,laboral,subterraneo,900,5.8,poniente
+Maipú,09:00,9,laboral,mall,850,5.8,poniente
+Maipú,09:00,9,sabado,superficie,700,5.8,poniente
+Maipú,09:00,9,sabado,subterraneo,800,5.8,poniente
+Maipú,09:00,9,sabado,mall,750,5.8,poniente
+Maipú,09:00,9,domingo,superficie,550,5.8,poniente
+Maipú,09:00,9,domingo,subterraneo,700,5.8,poniente
+Maipú,09:00,9,domingo,mall,600,5.8,poniente
+Maipú,10:00,10,laboral,superficie,750,5.8,poniente
+Maipú,10:00,10,laboral,subterraneo,900,5.8,poniente
+Maipú,10:00,10,laboral,mall,850,5.8,poniente
+Maipú,10:00,10,sabado,superficie,700,5.8,poniente
+Maipú,10:00,10,sabado,subterraneo,800,5.8,poniente
+Maipú,10:00,10,sabado,mall,750,5.8,poniente
+Maipú,10:00,10,domingo,superficie,550,5.8,poniente
+Maipú,10:00,10,domingo,subterraneo,700,5.8,poniente
+Maipú,10:00,10,domingo,mall,600,5.8,poniente
+Maipú,11:00,11,laboral,superficie,750,5.8,poniente
+Maipú,11:00,11,laboral,subterraneo,900,5.8,poniente
+Maipú,11:00,11,laboral,mall,850,5.8,poniente
+Maipú,11:00,11,sabado,superficie,700,5.8,poniente
+Maipú,11:00,11,sabado,subterraneo,800,5.8,poniente
+Maipú,11:00,11,sabado,mall,750,5.8,poniente
+Maipú,11:00,11,domingo,superficie,550,5.8,poniente
+Maipú,11:00,11,domingo,subterraneo,700,5.8,poniente
+Maipú,11:00,11,domingo,mall,600,5.8,poniente
+Maipú,12:00,12,laboral,superficie,1000,5.8,poniente
+Maipú,12:00,12,laboral,subterraneo,1150,5.8,poniente
+Maipú,12:00,12,laboral,mall,1050,5.8,poniente
+Maipú,12:00,12,sabado,superficie,900,5.8,poniente
+Maipú,12:00,12,sabado,subterraneo,1050,5.8,poniente
+Maipú,12:00,12,sabado,mall,950,5.8,poniente
+Maipú,12:00,12,domingo,superficie,750,5.8,poniente
+Maipú,12:00,12,domingo,subterraneo,900,5.8,poniente
+Maipú,12:00,12,domingo,mall,800,5.8,poniente
+Maipú,13:00,13,laboral,superficie,1000,5.8,poniente
+Maipú,13:00,13,laboral,subterraneo,1150,5.8,poniente
+Maipú,13:00,13,laboral,mall,1050,5.8,poniente
+Maipú,13:00,13,sabado,superficie,900,5.8,poniente
+Maipú,13:00,13,sabado,subterraneo,1050,5.8,poniente
+Maipú,13:00,13,sabado,mall,950,5.8,poniente
+Maipú,13:00,13,domingo,superficie,750,5.8,poniente
+Maipú,13:00,13,domingo,subterraneo,900,5.8,poniente
+Maipú,13:00,13,domingo,mall,800,5.8,poniente
+Maipú,14:00,14,laboral,superficie,1000,5.8,poniente
+Maipú,14:00,14,laboral,subterraneo,1150,5.8,poniente
+Maipú,14:00,14,laboral,mall,1050,5.8,poniente
+Maipú,14:00,14,sabado,superficie,900,5.8,poniente
+Maipú,14:00,14,sabado,subterraneo,1050,5.8,poniente
+Maipú,14:00,14,sabado,mall,950,5.8,poniente
+Maipú,14:00,14,domingo,superficie,750,5.8,poniente
+Maipú,14:00,14,domingo,subterraneo,900,5.8,poniente
+Maipú,14:00,14,domingo,mall,800,5.8,poniente
+Maipú,15:00,15,laboral,superficie,750,5.8,poniente
+Maipú,15:00,15,laboral,subterraneo,900,5.8,poniente
+Maipú,15:00,15,laboral,mall,850,5.8,poniente
+Maipú,15:00,15,sabado,superficie,700,5.8,poniente
+Maipú,15:00,15,sabado,subterraneo,800,5.8,poniente
+Maipú,15:00,15,sabado,mall,750,5.8,poniente
+Maipú,15:00,15,domingo,superficie,550,5.8,poniente
+Maipú,15:00,15,domingo,subterraneo,700,5.8,poniente
+Maipú,15:00,15,domingo,mall,600,5.8,poniente
+Maipú,16:00,16,laboral,superficie,750,5.8,poniente
+Maipú,16:00,16,laboral,subterraneo,900,5.8,poniente
+Maipú,16:00,16,laboral,mall,850,5.8,poniente
+Maipú,16:00,16,sabado,superficie,700,5.8,poniente
+Maipú,16:00,16,sabado,subterraneo,800,5.8,poniente
+Maipú,16:00,16,sabado,mall,750,5.8,poniente
+Maipú,16:00,16,domingo,superficie,550,5.8,poniente
+Maipú,16:00,16,domingo,subterraneo,700,5.8,poniente
+Maipú,16:00,16,domingo,mall,600,5.8,poniente
+Maipú,17:00,17,laboral,superficie,750,5.8,poniente
+Maipú,17:00,17,laboral,subterraneo,900,5.8,poniente
+Maipú,17:00,17,laboral,mall,850,5.8,poniente
+Maipú,17:00,17,sabado,superficie,700,5.8,poniente
+Maipú,17:00,17,sabado,subterraneo,800,5.8,poniente
+Maipú,17:00,17,sabado,mall,750,5.8,poniente
+Maipú,17:00,17,domingo,superficie,550,5.8,poniente
+Maipú,17:00,17,domingo,subterraneo,700,5.8,poniente
+Maipú,17:00,17,domingo,mall,600,5.8,poniente
+Maipú,18:00,18,laboral,superficie,750,5.8,poniente
+Maipú,18:00,18,laboral,subterraneo,900,5.8,poniente
+Maipú,18:00,18,laboral,mall,850,5.8,poniente
+Maipú,18:00,18,sabado,superficie,700,5.8,poniente
+Maipú,18:00,18,sabado,subterraneo,800,5.8,poniente
+Maipú,18:00,18,sabado,mall,750,5.8,poniente
+Maipú,18:00,18,domingo,superficie,550,5.8,poniente
+Maipú,18:00,18,domingo,subterraneo,700,5.8,poniente
+Maipú,18:00,18,domingo,mall,600,5.8,poniente
+Maipú,19:00,19,laboral,superficie,750,5.8,poniente
+Maipú,19:00,19,laboral,subterraneo,900,5.8,poniente
+Maipú,19:00,19,laboral,mall,850,5.8,poniente
+Maipú,19:00,19,sabado,superficie,700,5.8,poniente
+Maipú,19:00,19,sabado,subterraneo,800,5.8,poniente
+Maipú,19:00,19,sabado,mall,750,5.8,poniente
+Maipú,19:00,19,domingo,superficie,550,5.8,poniente
+Maipú,19:00,19,domingo,subterraneo,700,5.8,poniente
+Maipú,19:00,19,domingo,mall,600,5.8,poniente
+Maipú,20:00,20,laboral,superficie,750,5.8,poniente
+Maipú,20:00,20,laboral,subterraneo,900,5.8,poniente
+Maipú,20:00,20,laboral,mall,850,5.8,poniente
+Maipú,20:00,20,sabado,superficie,700,5.8,poniente
+Maipú,20:00,20,sabado,subterraneo,800,5.8,poniente
+Maipú,20:00,20,sabado,mall,750,5.8,poniente
+Maipú,20:00,20,domingo,superficie,550,5.8,poniente
+Maipú,20:00,20,domingo,subterraneo,700,5.8,poniente
+Maipú,20:00,20,domingo,mall,600,5.8,poniente
+Maipú,21:00,21,laboral,superficie,600,5.8,poniente
+Maipú,21:00,21,laboral,subterraneo,700,5.8,poniente
+Maipú,21:00,21,laboral,mall,650,5.8,poniente
+Maipú,21:00,21,sabado,superficie,550,5.8,poniente
+Maipú,21:00,21,sabado,subterraneo,650,5.8,poniente
+Maipú,21:00,21,sabado,mall,600,5.8,poniente
+Maipú,21:00,21,domingo,superficie,450,5.8,poniente
+Maipú,21:00,21,domingo,subterraneo,550,5.8,poniente
+Maipú,21:00,21,domingo,mall,500,5.8,poniente
+Maipú,22:00,22,laboral,superficie,600,5.8,poniente
+Maipú,22:00,22,laboral,subterraneo,700,5.8,poniente
+Maipú,22:00,22,laboral,mall,650,5.8,poniente
+Maipú,22:00,22,sabado,superficie,550,5.8,poniente
+Maipú,22:00,22,sabado,subterraneo,650,5.8,poniente
+Maipú,22:00,22,sabado,mall,600,5.8,poniente
+Maipú,22:00,22,domingo,superficie,450,5.8,poniente
+Maipú,22:00,22,domingo,subterraneo,550,5.8,poniente
+Maipú,22:00,22,domingo,mall,500,5.8,poniente
+La Florida,07:00,7,laboral,superficie,650,5.4,sur
+La Florida,07:00,7,laboral,subterraneo,750,5.4,sur
+La Florida,07:00,7,laboral,mall,700,5.4,sur
+La Florida,07:00,7,sabado,superficie,600,5.4,sur
+La Florida,07:00,7,sabado,subterraneo,700,5.4,sur
+La Florida,07:00,7,sabado,mall,650,5.4,sur
+La Florida,07:00,7,domingo,superficie,500,5.4,sur
+La Florida,07:00,7,domingo,subterraneo,600,5.4,sur
+La Florida,07:00,7,domingo,mall,550,5.4,sur
+La Florida,08:00,8,laboral,superficie,650,5.4,sur
+La Florida,08:00,8,laboral,subterraneo,750,5.4,sur
+La Florida,08:00,8,laboral,mall,700,5.4,sur
+La Florida,08:00,8,sabado,superficie,600,5.4,sur
+La Florida,08:00,8,sabado,subterraneo,700,5.4,sur
+La Florida,08:00,8,sabado,mall,650,5.4,sur
+La Florida,08:00,8,domingo,superficie,500,5.4,sur
+La Florida,08:00,8,domingo,subterraneo,600,5.4,sur
+La Florida,08:00,8,domingo,mall,550,5.4,sur
+La Florida,09:00,9,laboral,superficie,800,5.4,sur
+La Florida,09:00,9,laboral,subterraneo,950,5.4,sur
+La Florida,09:00,9,laboral,mall,900,5.4,sur
+La Florida,09:00,9,sabado,superficie,700,5.4,sur
+La Florida,09:00,9,sabado,subterraneo,850,5.4,sur
+La Florida,09:00,9,sabado,mall,800,5.4,sur
+La Florida,09:00,9,domingo,superficie,600,5.4,sur
+La Florida,09:00,9,domingo,subterraneo,700,5.4,sur
+La Florida,09:00,9,domingo,mall,650,5.4,sur
+La Florida,10:00,10,laboral,superficie,800,5.4,sur
+La Florida,10:00,10,laboral,subterraneo,950,5.4,sur
+La Florida,10:00,10,laboral,mall,900,5.4,sur
+La Florida,10:00,10,sabado,superficie,700,5.4,sur
+La Florida,10:00,10,sabado,subterraneo,850,5.4,sur
+La Florida,10:00,10,sabado,mall,800,5.4,sur
+La Florida,10:00,10,domingo,superficie,600,5.4,sur
+La Florida,10:00,10,domingo,subterraneo,700,5.4,sur
+La Florida,10:00,10,domingo,mall,650,5.4,sur
+La Florida,11:00,11,laboral,superficie,800,5.4,sur
+La Florida,11:00,11,laboral,subterraneo,950,5.4,sur
+La Florida,11:00,11,laboral,mall,900,5.4,sur
+La Florida,11:00,11,sabado,superficie,700,5.4,sur
+La Florida,11:00,11,sabado,subterraneo,850,5.4,sur
+La Florida,11:00,11,sabado,mall,800,5.4,sur
+La Florida,11:00,11,domingo,superficie,600,5.4,sur
+La Florida,11:00,11,domingo,subterraneo,700,5.4,sur
+La Florida,11:00,11,domingo,mall,650,5.4,sur
+La Florida,12:00,12,laboral,superficie,1050,5.4,sur
+La Florida,12:00,12,laboral,subterraneo,1250,5.4,sur
+La Florida,12:00,12,laboral,mall,1150,5.4,sur
+La Florida,12:00,12,sabado,superficie,950,5.4,sur
+La Florida,12:00,12,sabado,subterraneo,1100,5.4,sur
+La Florida,12:00,12,sabado,mall,1050,5.4,sur
+La Florida,12:00,12,domingo,superficie,800,5.4,sur
+La Florida,12:00,12,domingo,subterraneo,950,5.4,sur
+La Florida,12:00,12,domingo,mall,850,5.4,sur
+La Florida,13:00,13,laboral,superficie,1050,5.4,sur
+La Florida,13:00,13,laboral,subterraneo,1250,5.4,sur
+La Florida,13:00,13,laboral,mall,1150,5.4,sur
+La Florida,13:00,13,sabado,superficie,950,5.4,sur
+La Florida,13:00,13,sabado,subterraneo,1100,5.4,sur
+La Florida,13:00,13,sabado,mall,1050,5.4,sur
+La Florida,13:00,13,domingo,superficie,800,5.4,sur
+La Florida,13:00,13,domingo,subterraneo,950,5.4,sur
+La Florida,13:00,13,domingo,mall,850,5.4,sur
+La Florida,14:00,14,laboral,superficie,1050,5.4,sur
+La Florida,14:00,14,laboral,subterraneo,1250,5.4,sur
+La Florida,14:00,14,laboral,mall,1150,5.4,sur
+La Florida,14:00,14,sabado,superficie,950,5.4,sur
+La Florida,14:00,14,sabado,subterraneo,1100,5.4,sur
+La Florida,14:00,14,sabado,mall,1050,5.4,sur
+La Florida,14:00,14,domingo,superficie,800,5.4,sur
+La Florida,14:00,14,domingo,subterraneo,950,5.4,sur
+La Florida,14:00,14,domingo,mall,850,5.4,sur
+La Florida,15:00,15,laboral,superficie,800,5.4,sur
+La Florida,15:00,15,laboral,subterraneo,950,5.4,sur
+La Florida,15:00,15,laboral,mall,900,5.4,sur
+La Florida,15:00,15,sabado,superficie,700,5.4,sur
+La Florida,15:00,15,sabado,subterraneo,850,5.4,sur
+La Florida,15:00,15,sabado,mall,800,5.4,sur
+La Florida,15:00,15,domingo,superficie,600,5.4,sur
+La Florida,15:00,15,domingo,subterraneo,700,5.4,sur
+La Florida,15:00,15,domingo,mall,650,5.4,sur
+La Florida,16:00,16,laboral,superficie,800,5.4,sur
+La Florida,16:00,16,laboral,subterraneo,950,5.4,sur
+La Florida,16:00,16,laboral,mall,900,5.4,sur
+La Florida,16:00,16,sabado,superficie,700,5.4,sur
+La Florida,16:00,16,sabado,subterraneo,850,5.4,sur
+La Florida,16:00,16,sabado,mall,800,5.4,sur
+La Florida,16:00,16,domingo,superficie,600,5.4,sur
+La Florida,16:00,16,domingo,subterraneo,700,5.4,sur
+La Florida,16:00,16,domingo,mall,650,5.4,sur
+La Florida,17:00,17,laboral,superficie,800,5.4,sur
+La Florida,17:00,17,laboral,subterraneo,950,5.4,sur
+La Florida,17:00,17,laboral,mall,900,5.4,sur
+La Florida,17:00,17,sabado,superficie,700,5.4,sur
+La Florida,17:00,17,sabado,subterraneo,850,5.4,sur
+La Florida,17:00,17,sabado,mall,800,5.4,sur
+La Florida,17:00,17,domingo,superficie,600,5.4,sur
+La Florida,17:00,17,domingo,subterraneo,700,5.4,sur
+La Florida,17:00,17,domingo,mall,650,5.4,sur
+La Florida,18:00,18,laboral,superficie,800,5.4,sur
+La Florida,18:00,18,laboral,subterraneo,950,5.4,sur
+La Florida,18:00,18,laboral,mall,900,5.4,sur
+La Florida,18:00,18,sabado,superficie,700,5.4,sur
+La Florida,18:00,18,sabado,subterraneo,850,5.4,sur
+La Florida,18:00,18,sabado,mall,800,5.4,sur
+La Florida,18:00,18,domingo,superficie,600,5.4,sur
+La Florida,18:00,18,domingo,subterraneo,700,5.4,sur
+La Florida,18:00,18,domingo,mall,650,5.4,sur
+La Florida,19:00,19,laboral,superficie,800,5.4,sur
+La Florida,19:00,19,laboral,subterraneo,950,5.4,sur
+La Florida,19:00,19,laboral,mall,900,5.4,sur
+La Florida,19:00,19,sabado,superficie,700,5.4,sur
+La Florida,19:00,19,sabado,subterraneo,850,5.4,sur
+La Florida,19:00,19,sabado,mall,800,5.4,sur
+La Florida,19:00,19,domingo,superficie,600,5.4,sur
+La Florida,19:00,19,domingo,subterraneo,700,5.4,sur
+La Florida,19:00,19,domingo,mall,650,5.4,sur
+La Florida,20:00,20,laboral,superficie,800,5.4,sur
+La Florida,20:00,20,laboral,subterraneo,950,5.4,sur
+La Florida,20:00,20,laboral,mall,900,5.4,sur
+La Florida,20:00,20,sabado,superficie,700,5.4,sur
+La Florida,20:00,20,sabado,subterraneo,850,5.4,sur
+La Florida,20:00,20,sabado,mall,800,5.4,sur
+La Florida,20:00,20,domingo,superficie,600,5.4,sur
+La Florida,20:00,20,domingo,subterraneo,700,5.4,sur
+La Florida,20:00,20,domingo,mall,650,5.4,sur
+La Florida,21:00,21,laboral,superficie,650,5.4,sur
+La Florida,21:00,21,laboral,subterraneo,750,5.4,sur
+La Florida,21:00,21,laboral,mall,700,5.4,sur
+La Florida,21:00,21,sabado,superficie,600,5.4,sur
+La Florida,21:00,21,sabado,subterraneo,700,5.4,sur
+La Florida,21:00,21,sabado,mall,650,5.4,sur
+La Florida,21:00,21,domingo,superficie,500,5.4,sur
+La Florida,21:00,21,domingo,subterraneo,600,5.4,sur
+La Florida,21:00,21,domingo,mall,550,5.4,sur
+La Florida,22:00,22,laboral,superficie,650,5.4,sur
+La Florida,22:00,22,laboral,subterraneo,750,5.4,sur
+La Florida,22:00,22,laboral,mall,700,5.4,sur
+La Florida,22:00,22,sabado,superficie,600,5.4,sur
+La Florida,22:00,22,sabado,subterraneo,700,5.4,sur
+La Florida,22:00,22,sabado,mall,650,5.4,sur
+La Florida,22:00,22,domingo,superficie,500,5.4,sur
+La Florida,22:00,22,domingo,subterraneo,600,5.4,sur
+La Florida,22:00,22,domingo,mall,550,5.4,sur
